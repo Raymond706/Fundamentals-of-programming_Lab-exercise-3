@@ -1,2 +1,6 @@
 # Fundamentals-of-programming_Lab-exercise-3
 Multiplication Table up to 12
+
+Name:Raymond Chitindi 
+
+SIN:2302339656
